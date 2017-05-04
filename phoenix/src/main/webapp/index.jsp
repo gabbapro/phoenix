@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Project Endurance</title>
+	<title>Project Phoenix</title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width">
 	<link href="style.css" rel="stylesheet">
@@ -26,7 +26,7 @@
 
 	<!-- Main navigation -->
 	<nav class="main-navigation clearfix span12" role="navigation">
-		<h3 class="assistive-text">Project Endurance</h3>
+		<h3 class="assistive-text">Project Phoenix</h3>
 		<ul>
 			<li class="current"><a href="index.jsp">Home</a></li>
 			<li>
