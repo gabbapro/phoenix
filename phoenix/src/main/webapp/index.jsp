@@ -45,7 +45,7 @@
 
 		<header class="entry-header">
 			<h1 class="entry-title">
-				<a href="#" title="Post Heading" rel="bookmark">Intesa Sanpaolo: AppDev Cloud v3</a>
+				<a href="#" title="Post Heading" rel="bookmark">Intesa Sanpaolo: AppDev Cloud</a>
 			</h1>
 		</header> <!-- .entry-header -->
 
